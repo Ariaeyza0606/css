@@ -1,0 +1,50 @@
+body{
+	padding: 0;
+	margin: 0%;
+	background: #f8f7f7;
+	color:white;
+	margin-bottom: 1%;
+}
+/*Es el encabezado*/
+header{
+	text-align: center;
+	font-family: sans-serif;
+	color: #B29575;
+	font-size: 30px;
+	font-style: 60%;
+	background-image:url(http://k30.kn3.net/taringa/7/F/D/9/C/D/xg14nx/06B.jpg); 
+	border: 1px solid #e9b3b3;
+	margin:40px;
+	padding: 200px;
+	font-family: 'Bangers';
+}
+/*intro*/
+.summary p{
+	text-align: center;
+}
+.preamble{
+	background:white;
+	color: black;
+	
+}
+.summary, #zen-supporting, #zen-explanation, #zen-participation, #zen-benefits,#zen-requirements,.sidebar{
+	border-color: transparent
+}
+footer{
+	margin-left: 0;
+	margin-right:0;
+	text-align: center;
+	float: 
+}
+div{
+	font-size:18px;
+	color: white;
+	border: 1px solid #e9b3b3;
+	background: black;
+	overflow: hidden;
+	padding: 25px;
+	margin-top: .5em;
+  	margin-bottom: .5em;
+  	margin-left: 1em;
+  	margin-right: .5em;
+}
